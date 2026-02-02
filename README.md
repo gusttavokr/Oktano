@@ -1,2 +1,2 @@
 # Oktano 🐙🔧
-Um sistema SaaS completo de gestão para oficinas mecânicas e auto centers. Controle de ordens de serviço, clientes, veículos, estoque e emissões fiscais em uma plataforma integrada e moderna, otimizada para o que o seu negócio exige.
+Um sistema SaaS completo de gestão para oficinas mecânicas e auto centers. Controle de ordens de serviço, clientes, veículos, estoque e emissões fiscais em uma plataforma integrada e moderna.
