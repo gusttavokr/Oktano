@@ -42,6 +42,19 @@ Os funcionários necessitam de ferramentas robustas e integradas para garantir o
 
 Além disso, é essencial o acompanhamento em tempo real do banco de dados da oficina, transações, serviços feitos, bem como o acesso a relatórios gerenciais e indicadores que auxiliam em decisões estratégicas. Por fim, as oficinas precisam de uma única ferramenta integrada, colaborativa, eficiente e clara para melhor desempenho em suas funções básicas.
 
+## 6. Alternativas concorrentes
+Nosso projeto tem como concorrentes o Natalsys, NSysBalcão e o Ultracar. Diante disso, analisaremos os pontos fortes e fracos de cada um desses aplicativos e o que será reutilizado de funcionalidade.
+
+| **Aplicativo** | **Descrição** | **Pontos Fortes** | **Pontos Fracos** |
+|----------------|---------------|-------------------|-------------------|
+| **Natalsys**  | Plataforma de estoque e notas fiscais. | Solução prática para controle de estoque via nota fiscal. | Difícil acesso aos dados do cliente e do serviço |
+| **NSysBalcão** | Sistema de gestão dos clientes. | Controle total dos clientes para ordem de serviço. | Difícil acesso às notas fiscais desses clientes. |
+| **Ultracar** | Sistema de Gestão Para Oficina Automotiva. | Aplicação voltada diretamente às oficinas, com ferramentas exclusivas para o atendimento. | Lentidão na emissão das notas fiscais |
+
+
+**Observação:**  
+*O **Ultracar** é a solução mais semelhante à proposta que o Oktano ter. Centralizar o atendimento das ordens de serviços no setor automotivo em soma da emissão de notas fiscais tanto para os clientes como pro controle de estoque.*
+
 ## 7. Visão geral do produto
 
 A plataforma Oktano tem como objetivo ser uma solução digital que unifica as principais funcionalidades no atendimento automotivo. Com foco em otimizar a rotina dos funcionários, gerenciar e ter um acesso rápido as informações cruciais das oficinas, promovendo transparência de suas informações e recursos para gerencia de clientes, serviços e estoque.
