@@ -28,7 +28,7 @@ Com foco no mercado local, o Oktano atua em duas frentes principais: **a mecâni
 |----------|---------------|----------------------|
 | **Administrador** | Perfil responsável pela gestão do Oktano | - Gerencia oficinas; 
 | **Gerente** | Agente responsável por manter o perfil da oficina | - Gerencia funcionários; <br> - Emissão de relatórios; <br>
-| **Funcionário** | Ator responsável pelas operações dentro da Oficina, seja pela gestão dos serviços, ou pelo estoque | - Gerencia clientes; <br> - Gerencia veículos <br> - Gerencia estoque <br> - Gerencia notas fiscais <br> 
+| **Atendente** | Ator responsável pelas operações dentro da Oficina, seja pela gestão dos serviços, ou pelo estoque | - Gerencia clientes; <br> - Gerencia veículos <br> - Gerencia estoque <br> - Gerencia notas fiscais <br> 
 
 ## 4. Descrição do ambiente dos usuários
 
