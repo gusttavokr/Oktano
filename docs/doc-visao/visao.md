@@ -74,15 +74,15 @@ O sistema também contempla funcionalidades de personalização e automação, c
 | **Código** | **Ator** | **Nome** | **Descrição** | **Prioridade** |     
 |------------|---------------|----------------------|------------|------------|
 | **RF01** | Gerente | Gerencia de funcionários | O gerente tem acesso ao controle de funcionários na sua oficina.  | Alta |
-| **RF02** | Funcionário | Registro de clientes/veículos | Os funcionários podem manter o registro de clientes na oficina, incluindo seus veículos. | Alta |
-| **RF03** | Gerente/Funcionário | Listagem de Serviços | Os gerentes e funcionários podem ter acesso a uma listagem de serviços associados à oficina. | Alta |
-| **RF04** | Funcionário | Emissão de nota fiscal | Os funcionários devem emitir nota fiscal a cada serviço concluído. | Alta |
-| **RF05** | Gerente/Funcionário | Estoque | A oficina e seus funcionários devem ter acesso ao seu estoque para conclusão dos serviços disponíveis. | Alta |
+| **RF02** | Atendente | Registro de clientes/veículos | Os funcionários podem manter o registro de clientes na oficina, incluindo seus veículos. | Alta |
+| **RF03** | Gerente/Atendente | Listagem de Serviços | Os gerentes e funcionários podem ter acesso a uma listagem de serviços associados à oficina. | Alta |
+| **RF04** | Gerente/Atendente | Emissão de nota fiscal | Os funcionários devem emitir nota fiscal a cada serviço concluído. | Alta |
+| **RF05** | Gerente/Atendente | Estoque | A oficina e seus funcionários devem ter acesso ao seu estoque para conclusão dos serviços disponíveis. | Alta |
 | **RF06** | Sistema/Gerente | Notificações do estoque | O sistema notifica o gerente sobre atualizações no estoque. | Alto |
 | **RF07** | Administrador | Listagem de Oficinas | Os administradores do Oktano devem ter acesso a uma lista dos perfis das oficinas cadastradas. | Alta |
-| **RF08** | Funcionário | Manter ordem de serviço | Os funcionários devem abrir e manter a ordem de determinado serviço a ser realizado na oficina. | Alta |
+| **RF08** | Atendente | Manter ordem de serviço | Os funcionários devem abrir e manter a ordem de determinado serviço a ser realizado na oficina. | Alta |
 | **RF09** | Sistema | Dashboard interativo | O sistema deve possuir um dashboard que constantemente é atualizado conforme os dados da oficina em questão. | Médio |
-| **RF10** | Gerente/Funcionário | Perfis de Usuário | Os usuários podem ter acesso a sua página de perfil. | Baixo |
+| **RF10** | Gerente/Atendente | Perfis de Usuário | Os usuários podem ter acesso a sua página de perfil. | Baixo |
 
 
 ## 9. Requisitos não-funcionais
