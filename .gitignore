@@ -1,0 +1,81 @@
+# Bytecode Python e caches
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.eggs
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Django REST Framework
+# (Nenhum específico além do Django padrão, mas ignora uploads e caches de API)
+
+# Migrações de banco (se não versionadas intencionalmente)
+# */migrations/  # Descomente se quiser ignorar migrações
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistemas operacionais
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testes e coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.pytest_cache
+
+# Arquivos de ambiente e secrets
+.env
+.env.local
+.env.*.local
+Dockerfile.*.local
+.dockerignore.local
+
+# Outros
+pip-log.txt
+pip-delete-this-directory.txt
