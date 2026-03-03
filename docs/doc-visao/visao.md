@@ -4,7 +4,7 @@
 
 | Data                |  Versão             |          Descrição  |  Autores            |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| - | - | - | - |
+| 01/03/2026 | 1.0 | Versão inicial do sistema | [Gustavo Maia](https://github.com/gusttavokr) |
 
 
 ## 1. Objetivo do projeto
